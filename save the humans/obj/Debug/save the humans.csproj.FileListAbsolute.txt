@@ -1,0 +1,18 @@
+c:\users\karthick\documents\visual studio 2015\Projects\save the humans\bin\Debug\save the humans.exe.config
+c:\users\karthick\documents\visual studio 2015\Projects\save the humans\bin\Debug\save the humans.exe
+c:\users\karthick\documents\visual studio 2015\Projects\save the humans\bin\Debug\save the humans.pdb
+c:\users\karthick\documents\visual studio 2015\Projects\save the humans\obj\Debug\save the humans.csprojResolveAssemblyReference.cache
+c:\users\karthick\documents\visual studio 2015\Projects\save the humans\obj\Debug\MainWindow.g.cs
+c:\users\karthick\documents\visual studio 2015\Projects\save the humans\obj\Debug\App.g.cs
+c:\users\karthick\documents\visual studio 2015\Projects\save the humans\obj\Debug\save the humans_MarkupCompile.cache
+c:\users\karthick\documents\visual studio 2015\Projects\save the humans\obj\Debug\save the humans_MarkupCompile.lref
+c:\users\karthick\documents\visual studio 2015\Projects\save the humans\obj\Debug\MainWindow.baml
+c:\users\karthick\documents\visual studio 2015\Projects\save the humans\obj\Debug\save the humans.g.resources
+c:\users\karthick\documents\visual studio 2015\Projects\save the humans\obj\Debug\save_the_humans.Properties.Resources.resources
+c:\users\karthick\documents\visual studio 2015\Projects\save the humans\obj\Debug\save the humans.csproj.GenerateResource.Cache
+c:\users\karthick\documents\visual studio 2015\Projects\save the humans\obj\Debug\save the humans.exe
+c:\users\karthick\documents\visual studio 2015\Projects\save the humans\obj\Debug\save the humans.pdb
+C:\Users\karthick\Documents\Visual Studio 2015\Projects\save the humans\bin\Debug\save the humans.exe.manifest
+C:\Users\karthick\Documents\Visual Studio 2015\Projects\save the humans\bin\Debug\save the humans.application
+C:\Users\karthick\Documents\Visual Studio 2015\Projects\save the humans\obj\Debug\save the humans.exe.manifest
+C:\Users\karthick\Documents\Visual Studio 2015\Projects\save the humans\obj\Debug\save the humans.application
